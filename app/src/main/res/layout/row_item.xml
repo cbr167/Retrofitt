@@ -26,6 +26,17 @@
         android:text="omsairam#gmail.com"
         android:textSize="18dp"
         android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/description1"
+        android:padding="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:gravity="center_vertical"
+        android:text="omsairam#gmail.com"
+        android:textSize="18dp"
+        android:textStyle="bold" />
   <TextView
         android:id="@+id/weather"
         android:padding="5dp"
